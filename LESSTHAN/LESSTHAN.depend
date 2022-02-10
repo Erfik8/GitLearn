@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634574830 source:f:\codeblocks workspace\spoj\lessthan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
