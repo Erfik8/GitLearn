@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634597973 source:f:\codeblocks workspace\spoj\bezprzec\main.c
+	<stdio.h>
+	<stdlib.h>
+
