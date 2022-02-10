@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634208336 source:f:\codeblocks workspace\spoj\tperm2\main.c
+	<stdio.h>
+	<stdlib.h>
+

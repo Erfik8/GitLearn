@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634159601 source:f:\codeblocks workspace\spoj\lenlcs\main.c
+	<stdio.h>
+	<stdlib.h>
+

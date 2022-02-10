@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634596568 source:f:\codeblocks workspace\spoj\tdivl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
